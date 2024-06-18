@@ -17,7 +17,6 @@ enum class LogLevel
 
 class Logger
 {
-
  public:
     static void init()
     {
