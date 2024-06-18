@@ -26,8 +26,6 @@ public:
     void drawObjectsMetadata();
 
 private:
-
-
     Session& session_;
 
     int window_width_{1920};
