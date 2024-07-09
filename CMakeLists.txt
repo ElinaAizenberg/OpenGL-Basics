@@ -44,6 +44,8 @@ include_directories(include)
 # Include the directory where the external library headers are located
 include_directories(${IMGUI_DIR} ${EXTERNAL_LIB_DIR}/imguial_term ${IMGUI_DIR}/backends)
 
+configure_file(ReadMe.txt include/ReadMe.txt COPYONLY)
+
 # Find packages
 find_package(OpenGL REQUIRED)
 find_package(glfw3 REQUIRED CONFIG)
