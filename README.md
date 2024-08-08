@@ -19,9 +19,7 @@
 
 **External libraries:**
 - [Dear ImGui](https://github.com/ocornut/imgui)
-- [ImGui Portable File Dialogs](https://github.com/samhocevar/portable-file-dialogs)
-- [Image writer stb](https://github.com/nothings/stb/blob/master/stb_image_write.h)
-
+- [ImGui Logger](https://github.com/leiradel/ImGuiAl/tree/master/term)
 
 ### Installation
 1. Clone the repo
@@ -30,9 +28,9 @@ git clone https://github.com/ElinaAizenberg/OpenGL-Basics
 cd OpenGL-Basics
 ```
 
-2. In CMakeLists.txt update the path to the folder with external libraries
+2. In CMakeLists.txt and logger/CMakeLists.txt update the path to the folder with external libraries
 ```
-#TODO Specify the directory where imgui and other libraries are located
+#TODO Specify the directory where imgui and imguial_term libraries are located
 set(EXTERNAL_LIB_DIR /path_to_directory/libs)
 ```
 
