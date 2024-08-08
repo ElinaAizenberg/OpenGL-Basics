@@ -1,7 +1,26 @@
 # OpenGL: object loader, camera system
 ## Overview
+This educational mini-application is designed to demonstrate essential object manipulation techniques and UI interaction within a 3D environment using OpenGL. The application provides users with the ability to create, modify, and manage multiple objects in a scene, offering a hands-on approach to understanding basic graphics programming concepts. Through its intuitive interface, users can experiment with object transformations, panel controls, and real-time feedback, making it an ideal learning tool for those exploring 3D graphics and interactive application development. The code is heavily commented, with detailed function descriptions to facilitate learning and ease of understanding.
 
 ## Features
+- **Object Management:**
+  - easily add, remove, and modify objects within the scene using a dedicated panel;
+  - customize object properties such as color and position, with options to reset or select specific objects.
+
+- **Interactive Settings:**
+  - adjust global settings like rotation sensitivity and metadata display;
+  - lock individual panels to objects for synchronized movement and interaction.
+  
+- **Selection and Manipulation:**
+  - select and manipulate objects using various methods, including individual, area, and batch selection;
+  - move and rotate objects directly within the scene using intuitive mouse controls.
+
+- **Dynamic Panels:**
+  - open, close, and move individual object panels independently or lock them to the objects for consistent tracking;
+  - customize object panels with metadata, color modes, zoom controls, and comments.
+
+- **Zoom Functionality:**
+  - easily zoom in and out of the scene to get a closer look at the objects or view the entire scene at once.
 
 
 ## Screenshots
