@@ -24,9 +24,9 @@ This educational mini-application is designed to demonstrate essential object ma
 
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/6a013280-a3b0-4abd-9e5d-1219e2f31e88" width="500">
+<img src="https://github.com/user-attachments/assets/6a013280-a3b0-4abd-9e5d-1219e2f31e88" width="700">
 
-<img src="https://github.com/user-attachments/assets/6b2a2458-5eef-4fa9-b148-2aec799400bb" width="500">
+<img src="https://github.com/user-attachments/assets/6b2a2458-5eef-4fa9-b148-2aec799400bb" width="700">
 
 ## Getting Started
 ### Prerequisites
