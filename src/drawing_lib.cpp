@@ -14,7 +14,7 @@ GLFWwindow* DrawingLib::createWindow() const
 }
 
 void DrawingLib::getWindowSize(GLFWwindow* window)
-/** Retrieves the size of the specified GLFW window and updates the clas variables for width, height, and dimension ratio. */
+/** Retrieves the size of the specified GLFW window and updates the class variables for width, height, and dimension ratio. */
 {
     int w, h;
     glfwGetFramebufferSize(window, &w, &h);
